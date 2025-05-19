@@ -1,0 +1,25 @@
+body {
+        display: flex;
+            justify-content: center;
+                align-items: center;
+                    height: 100vh;
+                        margin: 0;
+                            background-color: #FBECEC;
+                                font-family: 'Lora';
+                                }
+
+                                .container {
+                                    text-align: center;
+                                    }
+
+                                    .header_text {
+                                        font-size: 3em;
+                                            color: #B03142;
+                                            }
+
+                                            .gif_container img {
+                                                width: 100%; 
+                                                    max-width: 500px; 
+                                                        height: auto; 
+                                                        }
+}
