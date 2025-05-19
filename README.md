@@ -1,6 +1,1 @@
-Mi querido, Henry;
-Vivo de hacer referencias que no sé si conocerás, viviendo en un mundo que carece de sentido del cual eres parte desde el primer día en que te conocí, dándole un vuelco al principio, puesto que jamás pensé que me enamoraría así, pero no me arrepiento porque gracias a ello te conocí. Cada día que pasa aprendo más de ti, de tus ocurrencias, de alguna que otra "tragedia" y vuelvo reafirmar que estoy tan feliz de estar junto a ti. No niego que hay cosas que me dan miedo o me aterra experimentar, el futuro es incierto, nadie sabe con exactitud que cosas pasarán, pero me gustaría pasarlas contigo, entre risas, llanto y burlas, porque sé que nada es perfecto, y quiero vivir una imperfecta vida contigo hasta que me lo permitas, porque creeme, no hay chico más maravilloso, precioso, brillante y divertido que tú.
 
-Te amo tanto, Henry, te amo muchísimo, mi chico lindo, sé que la manera en la que inició esto es ??? y como reaccioné también estuvo mal, quizá es demasiado pronto o quizá solo estoy sobrepensando las cosas otra vez, pero no quiero hacer las cosas mal contigo, no quiero lastimarte, quiero brindarte la felicidad que tú me brindas con tan solo existir, ok 
-
-Quiero ser tu novio, quiero estar en tu vida, quiero adorarte por el resto de la mía, te quiero a ti.
