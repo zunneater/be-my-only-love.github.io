@@ -78,5 +78,5 @@ function handlenoClick() {
 }
 
 function handlesíClick() {
-    window.location.href = "yes_page.html";
+    window.location.href = "sí.html";
 }
