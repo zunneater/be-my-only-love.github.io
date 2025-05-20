@@ -54,16 +54,18 @@
 })();
 */
 const messages = [
-    "estás seguro?",
-    "EN SERIO??",
+    "seguro?",
+    "EN SERIO HENRY???",
     "ok entiendo..",
     "mi amor, dale",
     "piénsalo bien, sí?",
+    "ok te doy media hora para que recapacites",
     "NO PASARON NI 5 MINUTOS, ESTALLO",
     "y si le preguntas a chatgpt? seguro te hace reflexionar!!!!!!!",
     "dime q sí, dime q sí",
     "ok ya capté, entiendo perfectamente",
-    "ERA BROMA, ámame"
+    "ERA BROMA, ámame",
+    "yo te amo sabes" 
 ];
 
 let messageIndex = 0;
@@ -78,5 +80,5 @@ function handlenoClick() {
 }
 
 function handlesíClick() {
-    window.location.href = "sí.html";
+    window.location.href = "paidlimon.carrd.co";
 }
