@@ -80,5 +80,5 @@ function handlenoClick() {
 }
 
 function handlesíClick() {
-    window.location.href = "paidlimon.carrd.co";
+    window.location.href = "sí.html";
 }
